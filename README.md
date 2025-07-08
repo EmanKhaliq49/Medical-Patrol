@@ -98,7 +98,7 @@ We welcome contributions to Medical Patrol! If you have ideas for improvements, 
 
 ## 📜 License
 
-This project is licensed under the MIT License - see the `LICENSE` file for details. *(Note: Please create a `LICENSE` file in your repository if you don't have one.)*
+This project is licensed under the MIT License - see the `LICENSE` file for details. 
 
 ## 📞 Contact
 
