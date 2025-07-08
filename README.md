@@ -104,5 +104,5 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 
 For any questions or inquiries, please reach out to:
 
-* **[Your Name/Team Maverick]** - [Your Email Address]
-* Project Link: [Link to your GitHub repository]
+* **[Eman Khaliq/Team Maverick]** - [ekhaliq409@gmail.com]
+
